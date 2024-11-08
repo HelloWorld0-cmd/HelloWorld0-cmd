@@ -7,9 +7,9 @@
 - ⚡ Fun fact: emmmmmmmmmmmmmmm,hh i'm boring;
 > this is my first markdown file.
 
+I'm from China.If can make friend with you I will feel very happy.
 I like anime and following is some of my favorite characters...
 
-I'm from China.If can make friend with you I will feel very happy.
 
 ![hhh](http://i0.hdslb.com/bfs/new_dyn/7034b946bc0afcc4dd2fbb886377c5533546738243668772.png)
 ![](http://i0.hdslb.com/bfs/new_dyn/4eb1fb79774d1dc0c966cccd3ff963183546738243668772.png)
